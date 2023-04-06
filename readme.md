@@ -9,7 +9,7 @@ host: www.yuanxingkang.cn
 ```
 ##### 微博
 ```
-/api/hotsearch/weibo
+/api/weibo
 ```
 ###### 接口返回值
 <details>
@@ -288,5 +288,420 @@ host: www.yuanxingkang.cn
     ]
 }
 
+```
+</details>
+
+##### 财经
+```
+/api/caijing
+```
+###### 接口返回值
+<details>
+    
+```json
+{
+    "caijing": [
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32fd"
+            },
+            "title": "南海银行递表深市主板，经营区域过于集中，不良贷款率逐年上升",
+            "link": "https://www.gelonghui.com/p/591846",
+            "pubDate": "Thu, 06 Apr 2023 09:36:02 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32fc"
+            },
+            "title": "正在建仓！大基金二期规模超2000亿，集中这些方向！多只重仓股与赵军、谢治宇等重合……",
+            "link": "https://www.gelonghui.com/p/591849",
+            "pubDate": "Thu, 06 Apr 2023 09:40:12 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32fb"
+            },
+            "title": "龙虎榜 | 新开普当日净买入额最多，4家机构净卖出石基信息4.62亿元，赵老哥减仓四川黄金1189万",
+            "link": "https://www.gelonghui.com/p/591853",
+            "pubDate": "Thu, 06 Apr 2023 09:56:55 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32fa"
+            },
+            "title": "阿里大模型曝光，智能音箱是下一个交互入口？",
+            "link": "https://www.gelonghui.com/p/591854",
+            "pubDate": "Thu, 06 Apr 2023 09:57:52 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f9"
+            },
+            "title": "港股这样的底部机会，不多了",
+            "link": "https://www.gelonghui.com/p/591859",
+            "pubDate": "Thu, 06 Apr 2023 10:15:27 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f8"
+            },
+            "title": "消费复苏主线下，透过财报看达利食品跨周期迭代能力",
+            "link": "https://www.gelonghui.com/p/591860",
+            "pubDate": "Thu, 06 Apr 2023 10:19:29 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f7"
+            },
+            "title": "每日行业复盘 | 2023.4.6",
+            "link": "https://www.gelonghui.com/p/591863",
+            "pubDate": "Thu, 06 Apr 2023 10:52:59 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f6"
+            },
+            "title": "全世界都在封杀ChatGPT",
+            "link": "https://www.gelonghui.com/p/591873",
+            "pubDate": "Thu, 06 Apr 2023 11:42:42 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f5"
+            },
+            "title": "南北水 | 北水连续21日净买入！加仓商汤超12亿港元，腾讯遭抛售超3亿港元",
+            "link": "https://www.gelonghui.com/p/591879",
+            "pubDate": "Thu, 06 Apr 2023 12:08:11 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f4"
+            },
+            "title": "央行：稳妥推进数字人民币研发试点，持续完善顶层设计",
+            "link": "https://www.gelonghui.com/p/591881",
+            "pubDate": "Thu, 06 Apr 2023 12:16:54 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f3"
+            },
+            "title": "信息量巨大！中纪委重磅发文，剑指国资央企反腐败",
+            "link": "https://www.gelonghui.com/p/591882",
+            "pubDate": "Thu, 06 Apr 2023 12:21:33 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecadd7caeda4bf24e32f2"
+            },
+            "title": "美股盘前要点 | 美股股指期货走低，美国上周首领失业救济人数升至22.8万人高于预期；Meta发布史上首个图像分割基础模型",
+            "link": "https://www.gelonghui.com/p/591885",
+            "pubDate": "Thu, 06 Apr 2023 12:40:44 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32f1"
+            },
+            "title": "合作“降级”，广汽埃安单飞，华为从联合开发商变更为供应商",
+            "link": "https://www.aicaijing.com.cn/article/18023",
+            "pubDate": "Wed, 29 Mar 2023 12:38:46 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32f0"
+            },
+            "title": "百果园披露上市后首份年报，营收113亿净利3亿，平均一天开一家店",
+            "link": "https://www.aicaijing.com.cn/article/18024",
+            "pubDate": "Thu, 30 Mar 2023 02:56:05 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ef"
+            },
+            "title": "“HPV疫苗焦虑”背后，他日赚1332万元",
+            "link": "https://www.aicaijing.com.cn/article/18025",
+            "pubDate": "Thu, 30 Mar 2023 05:07:33 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ee"
+            },
+            "title": "5天卷了近4亿票房，谁是新海诚的“中国贵人”？",
+            "link": "https://www.aicaijing.com.cn/article/18026",
+            "pubDate": "Thu, 30 Mar 2023 05:12:04 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ed"
+            },
+            "title": "库克拜访“金主”？《原神》全球吸金数百亿，或为苹果贡献数十亿",
+            "link": "https://www.aicaijing.com.cn/article/18027",
+            "pubDate": "Thu, 30 Mar 2023 07:54:54 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ec"
+            },
+            "title": "本田在印度试水电动二轮车，下一步中国，能“卷动”雅迪和爱玛？",
+            "link": "https://www.aicaijing.com.cn/article/18028",
+            "pubDate": "Thu, 30 Mar 2023 09:45:16 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32eb"
+            },
+            "title": "蒙牛去年营收逼近千亿，联手茅台后冰淇淋业务大涨，净利润超50亿",
+            "link": "https://www.aicaijing.com.cn/article/18029",
+            "pubDate": "Thu, 30 Mar 2023 10:35:10 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ea"
+            },
+            "title": "“东北面包大王”去年营收67亿元，净赚6个亿",
+            "link": "https://www.aicaijing.com.cn/article/18030",
+            "pubDate": "Thu, 30 Mar 2023 11:31:41 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e9"
+            },
+            "title": "君实生物2022年营收14.53亿，同比降63.89%，亏损23.88亿",
+            "link": "https://www.aicaijing.com.cn/article/18031",
+            "pubDate": "Thu, 30 Mar 2023 11:35:02 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e8"
+            },
+            "title": "“鸽王”贾跃亭，终于造出一辆车",
+            "link": "https://www.aicaijing.com.cn/article/18032",
+            "pubDate": "Thu, 30 Mar 2023 12:13:59 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e7"
+            },
+            "title": "京东拟分拆京东产发、京东工业独立上市，京东系或将迎来上市潮",
+            "link": "https://www.aicaijing.com.cn/article/18033",
+            "pubDate": "Thu, 30 Mar 2023 14:55:11 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e6"
+            },
+            "title": "高德地图要做出行领域的超级连接者",
+            "link": "https://www.aicaijing.com.cn/article/18034",
+            "pubDate": "Fri, 31 Mar 2023 04:41:06 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e5"
+            },
+            "title": "孙宏斌低头认错，债权人愿意跟他共赌明天吗？",
+            "link": "https://www.aicaijing.com.cn/article/18035",
+            "pubDate": "Fri, 31 Mar 2023 04:50:58 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e4"
+            },
+            "title": "日进3.4亿，茅台越卖越贵",
+            "link": "https://www.aicaijing.com.cn/article/18036",
+            "pubDate": "Fri, 31 Mar 2023 05:02:02 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e3"
+            },
+            "title": "长城汽车加大研发投入，2022年净利润超82亿",
+            "link": "https://www.aicaijing.com.cn/article/18037",
+            "pubDate": "Fri, 31 Mar 2023 08:26:17 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e2"
+            },
+            "title": "海信家电去年营收741亿，净利润大增，一年净赚十几亿",
+            "link": "https://www.aicaijing.com.cn/article/18038",
+            "pubDate": "Fri, 31 Mar 2023 08:28:51 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e1"
+            },
+            "title": "途虎养车更新招股书，工场店超4600家，注册用户近1亿",
+            "link": "https://www.aicaijing.com.cn/article/18039",
+            "pubDate": "Fri, 31 Mar 2023 09:19:37 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32e0"
+            },
+            "title": "国内CRO巨头暴跌14%！净利润9年来首次下滑，重要股东计划减持",
+            "link": "https://www.aicaijing.com.cn/article/18040",
+            "pubDate": "Fri, 31 Mar 2023 09:50:24 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32df"
+            },
+            "title": "华为2022年报发布：营收6423亿元，十年累计研发投入超9773亿元",
+            "link": "https://www.aicaijing.com.cn/article/18041",
+            "pubDate": "Fri, 31 Mar 2023 09:57:42 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32de"
+            },
+            "title": "海尔智家财报：2022全球逆增，2023密集布局迎接挑战",
+            "link": "https://www.aicaijing.com.cn/article/18042",
+            "pubDate": "Fri, 31 Mar 2023 10:32:17 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32dd"
+            },
+            "title": "郁亮：万科以后要赚小钱、长钱和辛苦钱",
+            "link": "https://www.aicaijing.com.cn/article/18043",
+            "pubDate": "Fri, 31 Mar 2023 10:36:33 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32dc"
+            },
+            "title": "参股企业涉非法吸收公众存款！任泉与王京花上热搜，各有资本版图",
+            "link": "https://www.aicaijing.com.cn/article/18044",
+            "pubDate": "Fri, 31 Mar 2023 11:32:03 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32db"
+            },
+            "title": "苏泊尔去年营收201亿元，同比出现下滑，小家电赛道整体承压",
+            "link": "https://www.aicaijing.com.cn/article/18045",
+            "pubDate": "Fri, 31 Mar 2023 11:49:32 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32da"
+            },
+            "title": "调味品生意不好做，河南“味精大王”要溢价收购自嗨锅",
+            "link": "https://www.aicaijing.com.cn/article/18046",
+            "pubDate": "Fri, 31 Mar 2023 12:44:17 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d9"
+            },
+            "title": "燃油车“掀桌”，二手车先疯了",
+            "link": "https://www.aicaijing.com.cn/article/18047",
+            "pubDate": "Sat, 01 Apr 2023 03:31:57 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d8"
+            },
+            "title": "厌倦打工的年轻人，开始跟风开酒馆",
+            "link": "https://www.aicaijing.com.cn/article/18048",
+            "pubDate": "Sat, 01 Apr 2023 09:39:42 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d7"
+            },
+            "title": "两年半存款20万，95后涌向养猪场",
+            "link": "https://www.aicaijing.com.cn/article/18049",
+            "pubDate": "Sun, 02 Apr 2023 03:32:41 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d6"
+            },
+            "title": "微软火烧金山",
+            "link": "https://www.aicaijing.com.cn/article/18050",
+            "pubDate": "Sun, 02 Apr 2023 09:25:48 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d5"
+            },
+            "title": "罗永浩，包邮上天",
+            "link": "https://www.aicaijing.com.cn/article/18051",
+            "pubDate": "Mon, 03 Apr 2023 11:14:04 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d4"
+            },
+            "title": "小鹏推出第二代智能驾驶辅助系统，欲摆脱高精地图限制",
+            "link": "https://www.aicaijing.com.cn/article/18052",
+            "pubDate": "Mon, 03 Apr 2023 11:16:30 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d3"
+            },
+            "title": "售价3块5，钟薛高为何要推平价雪糕？",
+            "link": "https://www.aicaijing.com.cn/article/18053",
+            "pubDate": "Mon, 03 Apr 2023 11:20:16 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d2"
+            },
+            "title": "汽车百人会论坛闭幕，华为、比亚迪、蔚来高层说了什么？",
+            "link": "https://www.aicaijing.com.cn/article/18054",
+            "pubDate": "Mon, 03 Apr 2023 12:28:37 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d1"
+            },
+            "title": "张继科危险“出圈”",
+            "link": "https://www.aicaijing.com.cn/article/18055",
+            "pubDate": "Tue, 04 Apr 2023 05:43:30 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32d0"
+            },
+            "title": "起亚，在中国最后一搏",
+            "link": "https://www.aicaijing.com.cn/article/18056",
+            "pubDate": "Tue, 04 Apr 2023 05:49:41 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32cf"
+            },
+            "title": "挂了1年多的房子，靠这招8天就售出！",
+            "link": "https://www.aicaijing.com.cn/article/18057",
+            "pubDate": "Tue, 04 Apr 2023 09:51:43 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32ce"
+            },
+            "title": "海归博士回国创业，6年亏出20亿！上市前“老友”拿3400万退出",
+            "link": "https://www.aicaijing.com.cn/article/18058",
+            "pubDate": "Tue, 04 Apr 2023 10:57:13 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32cd"
+            },
+            "title": "给猫狗买保险的人，是不是“大冤种”？",
+            "link": "https://www.aicaijing.com.cn/article/18059",
+            "pubDate": "Wed, 05 Apr 2023 03:20:14 GMT"
+        },
+        {
+            "_id": {
+                "$oid": "642ecada7caeda4bf24e32cc"
+            },
+            "title": "这届大佬偏爱女二代",
+            "link": "https://www.aicaijing.com.cn/article/18060",
+            "pubDate": "Wed, 05 Apr 2023 09:24:41 GMT"
+        }
+    ]
+}
 ```
 </details>
