@@ -707,5 +707,4 @@ host: www.yuanxingkang.cn
 </details>
 
 #### 加入钉钉群组，接收实时消息
-![WechatIMG29](https://user-images.githubusercontent.com/129702175/230527104-44af875c-0cc4-47b8-a3ad-dcfd566d55ce.jpeg)
-
+<img width="226" alt="截屏2023-04-07 上午10 20 18" src="https://user-images.githubusercontent.com/129702175/230527683-93690fbb-2071-40fa-bfb7-88d76734a08f.png">
