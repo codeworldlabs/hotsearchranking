@@ -706,5 +706,9 @@ host: www.yuanxingkang.cn
 ```
 </details>
 
+#### 钉钉通知效果如图
+<img width="416" alt="截屏2023-04-08 上午8 42 29" src="https://user-images.githubusercontent.com/129702175/230695942-5006b02b-2eea-4503-87ea-6ba9d7b52c04.png">
+
 #### 加入钉钉群组，接收实时消息
 <img width="226" alt="截屏2023-04-07 上午10 20 18" src="https://user-images.githubusercontent.com/129702175/230527683-93690fbb-2071-40fa-bfb7-88d76734a08f.png">
+
